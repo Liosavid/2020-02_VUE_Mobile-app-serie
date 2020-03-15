@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "bm-vue",
+    "bm": "blackm-vue"
+  }
+}
